@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:cristiandouce/mongoose-voting.git"
+    "url": "git@github.com:monad98/mongoose-voting.git"
   },
   "keywords": [
     "vote",
